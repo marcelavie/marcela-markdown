@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: Marcela Resume
+site_url: https://marcela.com/
+theme:
+    name: material
+    logo: earth.png
+    font:
+      text: Ubuntu Condensed
+    palette:
+      scheme: slate
+      primary: purple
+extra_css:
+  - stylesheets/extra.css
