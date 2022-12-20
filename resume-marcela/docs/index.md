@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Quem eu sou?
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Faço parte da 1ª Turma do Buser Tech, programa que une formação universitária (Análise e desenvolvimento de sistemas) com estágio remunerado, tendo em vista formar jovens talentos que queiram acelerar seu desenvolvimento na área de tecnologia em uma empresa real, de forma prática. Além disso, curso Bacharelado em Engenharia Mecânica pela UFLA.
+## Contatos
 
-## Commands
+* [LikedIn](https://www.linkedin.com/in/marcela-vieira-lima-237a79238/)
+* [Github](https://github.com/marcelavie)
+* [Instagram](https://www.instagram.com/marcela_vie/)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
